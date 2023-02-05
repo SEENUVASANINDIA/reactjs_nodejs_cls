@@ -1,0 +1,29 @@
+Hello all,
+
+VGLUG sharing various technology knowledge to rural college students. As part of it we are doing Free React js Node js  Training class every week. In this React js Node js  training we share knowledge about React js Node js (Web app development), Free software technologies and tools.
+
+Date: 28-Aug-2022
+Timing: 10:00 AM – 1:00 PM
+Venue : VGLUG Office, KK Road, Villupuram
+
+Map location : 
+
+OSM – https://www.openstreetmap.org/node/9007647741
+Google maps – https://maps.app.goo.gl/ob96Hc6USj84brVR7
+
+Agenda
+
+1. React Js Instalation
+2. General Discussion
+
+Minutes of meet
+
+This week session was handled by keethana,Amutha.
+
+Technical session was handled by  Keerthana, she guide and and help to install react js in students laptop and anlso teach some basic things like wher we need to change code and all other needed this .
+
+in general discussion session was handled by Amutha and she discuss about the book "Aranya Vaasi" and it was writen by "M. Rishan Sherief".
+
+This meeting was attended by about 20+ people.
+
+Thanks to Keerthana ,Amutha and all VGLUG Volunteers.

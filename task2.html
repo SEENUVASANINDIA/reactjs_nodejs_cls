@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>task2</title>
+</head>
+<body>
+    <form>
+        <label for="name">Name</label>
+        <input type="text" id="name">
+        <br>
+        <label for="age">Age</label>
+        <input type="text" id="age" >
+        <br><br>
+        <button type="button" onclick="task2()">Click</button>
+    </form>
+    <p id="a"></p>
+    <h1 id ="b"></h1>
+    <script>
+        function task2() {
+            var name = document.getElementById("name").value;
+            var age=document.getElementById("age").value;
+            document.getElementById("b").innerHTML= name + " is " + age + " years old"
+        }
+    </script>
+</body>
+</html> 
